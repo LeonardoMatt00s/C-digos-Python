@@ -1,7 +1,7 @@
 import os
 
 
-palavra_secreta = 'pietra'
+palavra_secreta = 'leonardo'
 letra_acertadas = ''
 numero_tentativas = 0
 
